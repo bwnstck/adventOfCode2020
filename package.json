@@ -1,0 +1,13 @@
+{
+  "name": "adventOfCode2020",
+  "version": "1.0.0",
+  "main": "day1.js",
+  "repository": "git@github.com:bwnstck/adventOfCode2020.git",
+  "author": "bwnstk <info@flimmerkiste.xyz>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node": "^15.3.0",
+    "nodemon": "^2.0.6"
+  }
+}
